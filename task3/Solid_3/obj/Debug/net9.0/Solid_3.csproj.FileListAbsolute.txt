@@ -1,0 +1,15 @@
+D:\uni\oop\hw8\task3\Solid_3\bin\Debug\net9.0\Solid_3.exe
+D:\uni\oop\hw8\task3\Solid_3\bin\Debug\net9.0\Solid_3.deps.json
+D:\uni\oop\hw8\task3\Solid_3\bin\Debug\net9.0\Solid_3.runtimeconfig.json
+D:\uni\oop\hw8\task3\Solid_3\bin\Debug\net9.0\Solid_3.dll
+D:\uni\oop\hw8\task3\Solid_3\bin\Debug\net9.0\Solid_3.pdb
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.AssemblyInfoInputs.cache
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.AssemblyInfo.cs
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.sourcelink.json
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.dll
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\refint\Solid_3.dll
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.pdb
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\Solid_3.genruntimeconfig.cache
+D:\uni\oop\hw8\task3\Solid_3\obj\Debug\net9.0\ref\Solid_3.dll
